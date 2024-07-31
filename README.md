@@ -2,6 +2,8 @@
 
 Wrap [Jina Reader](https://jina.ai/reader/) in Cloudflare Worker.
 
+
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/zuoa/jina-reader-proxy)
 ## Usage
 
 Append the `url` param to these endpoints.
